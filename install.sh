@@ -1,4 +1,5 @@
 #!/bin/bash
+# fuck me
 
 red='\e[91m'
 green='\e[92m'
